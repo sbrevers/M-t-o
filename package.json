@@ -1,0 +1,22 @@
+{
+  "name": "m-t-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrevers/M-t-o.git"
+  },
+  "author": "SvenBrevers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbrevers/M-t-o/issues"
+  },
+  "homepage": "https://github.com/sbrevers/M-t-o#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
